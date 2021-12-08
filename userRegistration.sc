@@ -5,12 +5,12 @@ object userRegistration
   def main(args: Array[String]):Unit=
   {
     val input = readLine("Enter a username: ")
-    val pattern = new Regex("^[A-Z]{1}[A-Za-z]{2,}$")
+    val pattern = new Regex("^[A-Z]{1}[A-Za-z]{2,}[ ]{1}[A-Z]{1}[A-Za-z]{2,}$")
     if (pattern.matches(input)){
-        print("valid pattern.")   
+        print("valid username.")   
     }
     else{
-        print("not a valid pattern.")
+        print("not a valid username.")
     }
   }
 }
