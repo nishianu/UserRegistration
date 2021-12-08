@@ -11,7 +11,7 @@ object userRegistration
     val mobile = readLine("Enter a valid mobile number: ")
     val pattern2 = new Regex("^\\d{1,3}[ ]{1}\\d{10}$")
     val password = readLine("Enter a valid password: ")
-    val pattern3 = new Regex("^[A-Z]{1,}[A-Za-z0-9]{8,}$")
+    val pattern3 = new Regex("^[A-Z]{1,}(?=.*\\d)[A-Za-z0-9]{7,}$")
     
 
     if (pattern.matches(username)){
