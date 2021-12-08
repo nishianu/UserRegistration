@@ -8,6 +8,8 @@ object userRegistration
     val pattern = new Regex("^[A-Z]{1}[A-Za-z]{2,}[ ]{1}[A-Z]{1}[A-Za-z]{2,}$")
     val email = readLine("Enter a valid email: ")
     val pattern1 = new Regex("^[a-zA-Z0-9+_.-]+@[a-zA-Z0-9.-]+$")
+    val mobile = readLine("Enter a valid mobile number: ")
+    val pattern2 = new Regex("^\\d{1,3}[ ]{1}\\d{10}$")
 
     if (pattern.matches(username)){
         print("\nvalid username.")   
@@ -20,6 +22,12 @@ object userRegistration
     }
     else{
         print("\nnot a valid email.")
+    }
+    if (pattern2.matches(mobile)){
+        print("\nvalid mobile number")   
+    }
+    else{
+        print("\nnot a valid mobile number.")
     }
   }
 }
