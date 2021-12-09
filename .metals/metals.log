@@ -611,3 +611,52 @@ WARNING: Unmatched cancel notification for request id 2056
 [0m2021.12.08 16:02:41 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
 [0m2021.12.08 16:02:41 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
 [0m2021.12.08 16:17:48 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:34:52 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\nkuma267\Desktop\ScalaUserRegistration' for client Visual Studio Code 1.62.3.[0m
+[0m2021.12.09 14:34:55 INFO  time: initialize in 2.52s[0m
+[0m2021.12.09 14:35:00 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.09 14:35:00 WARN  no build tool detected in workspace 'C:\Users\nkuma267\Desktop\ScalaUserRegistration'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.12.09 14:35:00 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:35:10 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.12.09 14:35:16 INFO  time: code lens generation in 14s[0m
+[0m2021.12.09 14:37:33 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:37:40 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:37:47 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:37:51 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:37:59 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:38:04 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:38:04 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:38:08 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:38:09 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:39:42 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:39:52 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:39:53 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:42:23 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:42:39 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:42:41 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:42:51 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:42:54 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:44:51 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:45:00 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:45:07 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:45:17 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:45:27 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:45:34 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:46:33 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 14:46:36 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 15:36:55 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 15:37:51 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 15:37:52 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 15:39:15 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 15:40:27 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 15:40:30 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 15:40:32 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 15:40:43 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 15:42:35 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 15:42:43 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 15:42:45 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 15:43:02 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 15:45:21 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 15:46:35 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 15:46:38 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 15:49:40 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
+[0m2021.12.09 15:49:41 WARN  no build target for: C:\Users\nkuma267\Desktop\ScalaUserRegistration\userRegistration.sc[0m
